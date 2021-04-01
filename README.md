@@ -1,7 +1,7 @@
 # Face Recognition
-# 修改了docker-compose.yml
-# 修改了requirements.txt
-# 增加了find_faces_in_facebank.py，将web_service_example.py的单一人脸对比，改为可以动态更新人脸库
+修改了docker-compose.yml
+修改了requirements.txt
+增加了find_faces_in_facebank.py，将web_service_example.py的单一人脸对比，改为可以动态更新人脸库
 
 _You can also read a translated version of this file [in Chinese 简体中文版](https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md) or [in Korean 한국어](https://github.com/ageitgey/face_recognition/blob/master/README_Korean.md) or [in Japanese 日本語](https://github.com/m-i-k-i/face_recognition/blob/master/README_Japanese.md)._
 
